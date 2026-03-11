@@ -18,7 +18,6 @@ Objectives:
 - Calculate packaging volume
 - Prepare data for operational logistics decisions
 
-File: `excel_operational_analysis.xlsx`
 
 ---
 
@@ -30,7 +29,6 @@ Objectives:
 - Estimate stock requirements
 - Support operational planning
 
-File: `excel_business_metrics_analysis.xlsx`
 
 ---
 
@@ -50,15 +48,15 @@ Dashboard Visualizations:
 - Campaign Performance Table
 - Interactive Filters (Date & Campaign)
 
-File: `ppc_campaign_dashboard.pbix`
 
 ---
 
 ## Dashboard Preview
 
-![Power BI Dashboard](powerbi-dashboard/dashboard_preview.png)
 
----
+
+<img width="636" height="363" alt="Screenshot 2026-03-11 134410" src="https://github.com/user-attachments/assets/112b230f-78cf-4a19-a286-a9228fa90b91" />
+
 
 ## Key Insights
 
