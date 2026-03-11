@@ -81,14 +81,16 @@ Dashboard Visualizations:
 ecommerce-campaign-performance-analysis
 │
 ├── datasets
-│ ├── Q1_dataset.xlsx
-│ ├── Q2_dataset.xlsx
-│ └── Q3_dataset.xlsx
+│ ├── Q1.xlsx
+│ ├── Q2.xlsx
+│ └── Q3.xlsx
 │
 ├── excel-analysis
-│ ├── excel_operational_analysis.xlsx
-│ └── excel_business_metrics_analysis.xlsx
+│ ├── Vinaysharma_Q1_solution.xlsx
+│ └── Vinaysharma_Q2_solution.xlsx
 │
-└── powerbi-dashboard
-├── ppc_campaign_dashboard.pbix
-└── dashboard_preview.png
+├── powerbi-dashboard
+│ ├── Vinaysharma_PPC_campaign_dashboard.pbix
+│ └── dashboard_preview.png
+│
+└── README.md
